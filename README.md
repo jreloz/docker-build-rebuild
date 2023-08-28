@@ -2,8 +2,8 @@
 
 
 # Example:
-1. image_name = app_api
-2. container_name = wneth_app
+1. image_name = wneth_app
+2. container_name = app_api
 
 
 ### build docker
